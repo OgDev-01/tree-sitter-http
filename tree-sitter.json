@@ -1,0 +1,27 @@
+{
+  "grammars": [
+    {
+      "name": "http",
+      "camelcase": "HTTP",
+      "scope": "source.http",
+      "path": ".",
+      "file-types": [
+        "http",
+        "rest"
+      ]
+    }
+  ],
+  "metadata": {
+    "version": "1.0.0",
+    "license": "MIT",
+    "description": "HTTP request file grammar for tree-sitter",
+    "authors": [
+      {
+        "name": "OgDev-01"
+      }
+    ],
+    "links": {
+      "repository": "https://github.com/OgDev-01/tree-sitter-http"
+    }
+  }
+}
